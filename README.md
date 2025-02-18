@@ -94,7 +94,8 @@ Request Body:
 "layout": [1]
 }
 
-![img_6.png](img_6.png)
+![image](https://github.com/user-attachments/assets/f7c99195-f260-4849-bdaa-f6a914ff22af)
+
 
 This allows you to assign a layout from the layout table to a user by providing the relevant layout ID.
 
